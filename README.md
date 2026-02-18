@@ -1,4 +1,4 @@
-# Open Source Arras
+# Open Source Scenexe
 
 <img alt="Logo" src="public/img/round.png" width="100"/>
 
